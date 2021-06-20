@@ -255,7 +255,6 @@ dependencies:
     - stdlib-list==0.8.0
     - tqdm==4.52.0
     - umap-learn==0.4.6
-    - velocyto==0.17.17
     - werkzeug==1.0.1
     - wtforms==2.3.3
 prefix: /opt/conda/envs/hub_v2
