@@ -20,4 +20,4 @@ conda env list
 conda remove --name winuthayanon-lab --all
 
 # How to export conda environment
-conda-env export -n winuthayanon-lab -f winuthayanon-lab.yml 
+conda env export -n winuthayanon-lab -f winuthayanon-lab.yml 
